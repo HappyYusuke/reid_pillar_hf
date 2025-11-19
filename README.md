@@ -3,7 +3,7 @@
 
 # Installation
 
-ros2_tao__pointpillarsのファイルを置換します。
+ros2_tao_pointpillarsのファイルを置換します。
 ```
 # 元のファイルを削除
 rm ~/ros2_ws/src/ros2_tao_pointpillars/launch/pp_infer_launch.py
