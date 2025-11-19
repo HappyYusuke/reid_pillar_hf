@@ -27,6 +27,7 @@ setup(
     entry_points={
         'console_scripts': [
             f'reid3d = {package_name}.reid3d:main',
+            f'pub_pillar_bbox = {package_name}.pub_pillar_bbox:main',
         ],
     },
 )
